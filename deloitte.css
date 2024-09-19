@@ -1,0 +1,21 @@
+.circle {
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    border-radius:60%;
+    position: absolute;
+
+  }
+  
+  .circle1 {
+    left: 50px;
+    top: 50px;
+  }
+  
+  .circle2 {
+    left: 100px;
+    top: 50px;
+  }
