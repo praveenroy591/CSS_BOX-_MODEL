@@ -1,25 +1,26 @@
 .container {
-    width: 100px;
-    height: 100px;
-    position: relative;
-  }
-  
-  .square {
-    width: 50px;
-    height: 50px;
-    border: 2px solid blue;
-    position: absolute;
-    top: 25px;
-    left: 25px;
-  }
-  
-  
-  .circle {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    border: 2px solid blue;
-    position: absolute;
-    top: 25px;
-    left: 70px;
-  }
+  width: 300px;
+  height: 300px;
+  position: relative;
+  margin: 15% 10% 30% 30%;
+}
+
+.square {
+  width: 350px;
+  height: 350px;
+  border: 5px solid black;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+
+
+.circle {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  border: 5px solid black;
+  position: absolute;
+  top: 25px;
+  left: 350px;
+}
