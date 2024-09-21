@@ -1,7 +1,7 @@
 .first{
     box-sizing: border-box;
     border-color: black;
-    border: 5px solid black;
+    border: 4px solid black;
     max-width: 500px;
     height: 500px;
     margin: 150px 500px;
@@ -10,7 +10,7 @@
 .second{
     box-sizing: border-box;
     border-color: black;
-    border: 5px solid black;
+    border: 4px solid black;
     max-width: 250px;
     height: 225px;
     margin: 141px;
@@ -19,7 +19,7 @@
 .third{
     box-sizing: border-box;
     border-color: black;
-    border: 5px solid black;
+    border: 4px solid black;
     max-width: 100px;
     height: 100px;
     margin: 50px;
